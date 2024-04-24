@@ -1,0 +1,3 @@
+FROM couchbase
+
+EXPOSE 8091-8094 11210
